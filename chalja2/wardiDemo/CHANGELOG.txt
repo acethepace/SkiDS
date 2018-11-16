@@ -1,0 +1,46 @@
+Cubiquity For Unity3D Changelog
+===============================
+
+Note that in general we only list versions which actually get submitted to the assets store, but that within each entry we list all important changes which have been made since the last submitted version.
+
+Version 1.2.1
+-------------
+ - Features
+  - Added support for Unity 5.
+
+Version 1.2.0
+-------------
+ - Features
+  - ConvertToVDB and ConvertToImages now replaced by ProcessVDB tool.
+   - Supports experimental import of heightmaps.
+  - Performance and memory gains due to use of octree and timestamping.
+  - Can now optionally use \unsafe flag for faster transfer of mesh data.
+  - Provides 64-bit versions of native code binaries.
+  - Colliders can optionally exist in Unity editor for integration with other tools. 
+ - Bug fixes
+  - Fixed problem saving scenes on Unity 4.6
+
+Version 1.1.3
+-------------
+ - Bug fixes
+  - Fixed problems with terrain volume collision detection and added test.
+ 
+Version 1.1.2
+-------------
+ - Bug fixes
+  - Cubiquity now statically linked against C runtime (fixes 'missing .dll' issue).
+  - Added compile flags to fix problems running on Windows XP.
+  
+Version 1.1.1
+-------------
+ - Features
+  - Colored cubes volume can now have a global diffuse and normal map applied.
+  - You can set write permissions on VolumeData, e.g to open it in read-only mode
+  - A new example (CreateVoxelDatabase) shows creation of .vdb files from code.
+ - Bug fixes
+  - Appropriate warning now given on volume duplication
+  - Fixed missing shader when fading out voxels. 
+  
+Version 1.0.0
+-------------
+Initial release
