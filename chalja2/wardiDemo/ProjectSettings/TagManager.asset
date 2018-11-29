@@ -6,6 +6,9 @@ TagManager:
   tags:
   - terrain
   - plant
+  - projectile
+  - FxTemporaire
+  - dirtmound
   layers:
   - Default
   - TransparentFX

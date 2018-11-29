@@ -5,7 +5,7 @@ using UnityEngine;
 public class MakingPlantFixed : MonoBehaviour {
 
     private GameObject myPlantObject;
-    private static float threshold = -0.05f;
+    private static float threshold = -0.1f;
 
 	// Use this for initialization
 	void Start () {
@@ -23,7 +23,7 @@ public class MakingPlantFixed : MonoBehaviour {
     IEnumerator Example()
     {
         print(Time.time);
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(3);
         if(myPlantObject.transform.position.y < threshold)
         {
             myPlantObject.GetComponent<Rigidbody>().isKinematic = true;

@@ -70,6 +70,8 @@
      <Compile Include="Assets\Cubiquity\Editor\VolumeColliderInspector.cs" />
      <Compile Include="Assets\Cubiquity\Editor\VolumeDataAsset.cs" />
      <Compile Include="Assets\Cubiquity\Editor\VolumeDataInspector.cs" />
+     <Compile Include="Assets\RockVR\Video\Editor\VideoCaptureEditor.cs" />
+     <Compile Include="Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Preferences.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />

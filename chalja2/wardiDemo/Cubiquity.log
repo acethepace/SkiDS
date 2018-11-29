@@ -1,15 +1,130 @@
 ********************************************************************************
 *                             Initializing Cubiquity                           *
 ********************************************************************************
-[15:58:37, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
-[16:03:40, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
-[16:04:00, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
-[16:05:14, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
-[16:05:14, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
-[16:05:17, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
-[16:06:21, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
-[16:06:21, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
-[16:07:06, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
-[16:09:18, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
-[16:09:18, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
-[19:22:38, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:34:18, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:34:23, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:35:54, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:35:55, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:35:57, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:38:07, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:38:07, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:38:12, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:38:29, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:39:50, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:42:05, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:42:05, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:43:48, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:44:04, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:44:09, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:44:18, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:45:05, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:45:17, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:47:13, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:50:43, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:50:43, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:50:46, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:52:09, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:52:09, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:52:55, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:55:17, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:55:17, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:55:20, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:56:04, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:56:04, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:56:53, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:57:50, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:57:50, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:59:02, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[14:59:51, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[14:59:52, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:01:22, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:01:51, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:01:55, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:02:49, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:02:49, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:03:28, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:04:21, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:04:22, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:05:25, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:06:56, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:06:56, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:07:00, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:07:35, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:07:35, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:07:48, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:09:16, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:09:17, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:11:15, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:17:56, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:17:57, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:17:59, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:18:32, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:18:35, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:18:46, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:19:02, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:22:49, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:22:49, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:22:52, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:25:10, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:25:10, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:27:46, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:29:55, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:29:55, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:36:35, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:37:11, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:37:13, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:38:38, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:38:40, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:40:57, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:40:57, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:43:05, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:44:19, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:44:19, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:47:07, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:48:10, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:48:11, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:53:47, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:54:55, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:55:00, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[15:57:17, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[15:57:17, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:01:03, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:03:36, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:03:37, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:07:32, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:09:56, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:09:56, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:12:17, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:13:23, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:13:23, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:14:29, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:17:30, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:17:31, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:18:44, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:20:00, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:20:00, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:21:21, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:22:41, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:22:42, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:28:34, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:32:08, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:32:08, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:35:41, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:37:29, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:37:30, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:40:42, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:43:48, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:43:49, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:43:51, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:47:16, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:47:16, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:54:17, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:56:16, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:56:17, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:56:19, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+[16:58:15, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[16:58:15, Info   ]: Creating voxel database from 'D:/SKiDS/chalja2/wardiDemo/Assets/StreamingAssets/Cubiquity/VoxelDatabases/726D08D5.vdb'
+********************************************************************************
+*                             Shutting down Cubiquity                          *
+********************************************************************************
+
